@@ -1,0 +1,11 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Auth/.vs/Auth
+/Auth/Clerk.Auth/bin/Debug/net8.0
+/Auth/Clerk.Auth/obj
+/Auth/Clerk.Auth/Clerk.Auth.csproj.user
+/Auth/Supabase.Auth/bin/Debug/net8.0
+/Auth/Supabase.Auth/obj
+/Auth/Supabase.Auth/Supabase.Auth.csproj.user

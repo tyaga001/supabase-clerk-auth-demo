@@ -1,0 +1,6 @@
+@Clerk.Auth_HostAddress = http://localhost:5087
+
+GET {{Clerk.Auth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

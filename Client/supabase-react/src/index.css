@@ -1,0 +1,14 @@
+.container {
+  max-width: 50%;
+  margin-left: 25%;
+  margin-top: 10%;
+}
+
+.center {
+  text-align: center;
+}
+
+.empContainer {
+  width: 100px;
+  border: 1px solid black;
+}

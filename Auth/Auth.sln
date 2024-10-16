@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supabase.Auth", "Supabase.Auth\Supabase.Auth.csproj", "{183CFB86-D74D-43C3-8F86-1A6205F19831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clerk.Auth", "Clerk.Auth\Clerk.Auth.csproj", "{FF970A97-685A-4A34-ABF3-6FBB7EE610E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{183CFB86-D74D-43C3-8F86-1A6205F19831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183CFB86-D74D-43C3-8F86-1A6205F19831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183CFB86-D74D-43C3-8F86-1A6205F19831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183CFB86-D74D-43C3-8F86-1A6205F19831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF970A97-685A-4A34-ABF3-6FBB7EE610E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF970A97-685A-4A34-ABF3-6FBB7EE610E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF970A97-685A-4A34-ABF3-6FBB7EE610E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF970A97-685A-4A34-ABF3-6FBB7EE610E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0369424-560F-4230-B6EF-9D6A880387E1}
+	EndGlobalSection
+EndGlobal
