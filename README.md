@@ -1,0 +1,1 @@
+# supabase-clerk-auth-demo
